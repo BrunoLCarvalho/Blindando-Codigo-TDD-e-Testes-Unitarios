@@ -1,0 +1,14 @@
+C:\Users\bruno\OneDrive\Área de Trabalho\Programacao\DIO\Aulas\Modulo Teste API\NewTalents-Bruno\NewTalents-Bruno\bin\Debug\net8.0\NewTalents-Bruno.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\Programacao\DIO\Aulas\Modulo Teste API\NewTalents-Bruno\NewTalents-Bruno\bin\Debug\net8.0\NewTalents-Bruno.deps.json
+C:\Users\bruno\OneDrive\Área de Trabalho\Programacao\DIO\Aulas\Modulo Teste API\NewTalents-Bruno\NewTalents-Bruno\bin\Debug\net8.0\NewTalents-Bruno.runtimeconfig.json
+C:\Users\bruno\OneDrive\Área de Trabalho\Programacao\DIO\Aulas\Modulo Teste API\NewTalents-Bruno\NewTalents-Bruno\bin\Debug\net8.0\NewTalents-Bruno.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Programacao\DIO\Aulas\Modulo Teste API\NewTalents-Bruno\NewTalents-Bruno\bin\Debug\net8.0\NewTalents-Bruno.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\Programacao\DIO\Aulas\Modulo Teste API\NewTalents-Bruno\NewTalents-Bruno\obj\Debug\net8.0\NewTalents-Bruno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Área de Trabalho\Programacao\DIO\Aulas\Modulo Teste API\NewTalents-Bruno\NewTalents-Bruno\obj\Debug\net8.0\NewTalents-Bruno.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Programacao\DIO\Aulas\Modulo Teste API\NewTalents-Bruno\NewTalents-Bruno\obj\Debug\net8.0\NewTalents-Bruno.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Área de Trabalho\Programacao\DIO\Aulas\Modulo Teste API\NewTalents-Bruno\NewTalents-Bruno\obj\Debug\net8.0\NewTalents-Bruno.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Programacao\DIO\Aulas\Modulo Teste API\NewTalents-Bruno\NewTalents-Bruno\obj\Debug\net8.0\NewTalents-Bruno.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Programacao\DIO\Aulas\Modulo Teste API\NewTalents-Bruno\NewTalents-Bruno\obj\Debug\net8.0\refint\NewTalents-Bruno.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Programacao\DIO\Aulas\Modulo Teste API\NewTalents-Bruno\NewTalents-Bruno\obj\Debug\net8.0\NewTalents-Bruno.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\Programacao\DIO\Aulas\Modulo Teste API\NewTalents-Bruno\NewTalents-Bruno\obj\Debug\net8.0\NewTalents-Bruno.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Programacao\DIO\Aulas\Modulo Teste API\NewTalents-Bruno\NewTalents-Bruno\obj\Debug\net8.0\ref\NewTalents-Bruno.dll
